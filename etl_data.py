@@ -123,24 +123,6 @@ def chart_event_type_counts(transcript_df, portfolio):
     fig = go.Figure(data, layout)
     fig.show()
 
-# def check_for_event(row, event_type, transcript_df):
-#     try:
-#         events = transcript_df[(transcript_df['person']==row['person']) & (transcript_df['time']>=row['time'])
-#                             & (transcript_df['time']<=row['end_time']) & (transcript_df['event']==event_type)]
-#         if len(events)>0:
-#             if event_type == 'transaction':
-#                 # multiple transactions are possible in the duration of the offer - add event indexes to tuple
-#                 return tuple(events.index.tolist())
-#             else:
-#                 # return the event index of the relevant event
-#                 return events.index[0]
-#         else:
-#             return np.nan
-#     except:
-#         print(row)
-#         print(event_type)
-#         return np.nan
-
 
 def get_transactions_total(transaction_tuple):
     if isinstance(transaction_tuple, tuple):
