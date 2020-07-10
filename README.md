@@ -28,7 +28,7 @@ This project uses the following packages:
 ## Project Overview 
 This assignment is the Data Scientist Capstone project for the Udacity Data Scientist Nanodegree Program:
     Udacity's Data Scientist Nanodegree curriculum: https://www.udacity.com/course/data-scientist-nanodegree--nd025  
-The blog post discussing the results from this assignment can be found here: TODO
+The blog post discussing the results from this assignment can be found here: https://medium.com/@timothydkou/customer-segmentation-for-analyzing-interaction-behavior-with-promotions-by-demographic-d01a94dd5374?source=friends_link&sk=d47a5de8405234d7365e8a3781dd7d6a
 
 The Starbucks Capstone Challenge, chosen for this project, is to combine the provided simulated datasets containing transaction, demographic, and offer data to determine which mobile application users respond best to which offer types.
 
@@ -84,4 +84,4 @@ Analysis of the results is discussed in the Medium blog post.
 ## Acknowledgements
 Author: Tim Kou (https://github.com/timothykou)
 
-Link to Medium blog post on this subject: https://medium.com/@timothydkou/these-are-the-leading-factors-for-an-airbnb-listings-price-538bfb9662ce
+Link to Medium blog post on this subject: https://medium.com/@timothydkou/customer-segmentation-for-analyzing-interaction-behavior-with-promotions-by-demographic-d01a94dd5374?source=friends_link&sk=d47a5de8405234d7365e8a3781dd7d6a
